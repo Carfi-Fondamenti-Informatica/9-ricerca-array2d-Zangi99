@@ -9,13 +9,14 @@ int main(){
     cin>>A[i];
   }
   
-  cin>>B[0]
+  cin>>B[0];
   
   if(cerca(A, B, pos)){
     cout<<pos<<endl;
-  }else{
-    cout<<"Non presente"<<endl;
-       }
+  }
+  else{
+  cout<<"Non presente"<<endl;
+  }
   
   return 0;
 }
