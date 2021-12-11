@@ -6,7 +6,7 @@ int main(){
   int pos=0;
   char A[10][20], B[1][20];
   for (int i=0; i<10; i++){
-    cin>>a[i];
+    cin>>A[i];
   }
   
   cin>>B[0]
