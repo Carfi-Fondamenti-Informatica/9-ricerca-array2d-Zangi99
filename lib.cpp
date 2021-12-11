@@ -1,6 +1,5 @@
 #include "lib.h"
 #include <cstring>
-using namespace std;
 
 bool cerca(char lista[10][20], char nome[1][10], int &pos){
     for (int i=0; i<10; i++){
