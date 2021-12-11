@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-  int pos=0;
+  int pos;
   char A[10][20], B[1][20];
   for (int i=0; i<10; i++){
     cin>>A[i];
