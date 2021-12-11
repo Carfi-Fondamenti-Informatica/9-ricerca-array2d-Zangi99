@@ -11,7 +11,7 @@ int main(){
   }
   cin>>nome;
   
-  if(res(list,nome,a)){
+  if(res(lista,nome,a)){
     cout<<a;
   }else{
     cout<<"non presente";
